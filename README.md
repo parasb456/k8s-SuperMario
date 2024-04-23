@@ -25,3 +25,8 @@ To replicate this deployment, follow these steps:
 Your feedback and contributions are highly appreciated! Feel free to open an issue or submit a pull request if you have any suggestions, improvements, or questions regarding this project.
 
 Let's make Super Mario even more awesome in the cloud! 🌟🍄
+
+
+Author
+
+Paras Bhardwaj
